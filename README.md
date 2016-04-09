@@ -8,6 +8,5 @@ Full function to check SEO in any domain
 <code>function bingBack($url)</code>
 <code>function dmozCheck($url)</code>
 <code>function robocheck($url)</code>
-<code>function robocheck($url)</code>
-<code>function robocheck($url)</code>
-<code>function robocheck($url)</code>
+<code>function sitemap_check($url)</code>
+<code>function check_mal($url)</code>
